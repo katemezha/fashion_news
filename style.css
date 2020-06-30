@@ -9,6 +9,7 @@ header{
 	width: 100%;
 	background-color: #AD7F87;
 	color: #61474C;
+	z-index: 100;
 }
 a{
 	color: #61474C;
@@ -40,4 +41,8 @@ footer{
 .btn{
 	color:white;
 	border-color: white;
+}
+.btn:hover{
+	background-color: #AD4B5D;
+	border-color:#AD4B5D;
 }
